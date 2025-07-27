@@ -31,3 +31,5 @@ target/
 ### Logs
 /logs
 /temp
+
+/postgres/data/*
