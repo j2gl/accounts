@@ -1,6 +1,6 @@
 # Notes
 
-The goal of the project is to have one place to check my finance status.  And how much money I have in every account.   
+The goal of the project is to have one place to track and check my finance status.  The second goal is that I don't want to be adding data manually to spreadsheets to see my finance status, and try to use CSV or other files to import account statuses.  
 
 What Data should I store?
 
