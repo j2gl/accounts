@@ -1,6 +1,6 @@
 # Personal Accounts
 
-Project Title: Personal Accounts
+Project Title: PennyLens
 
 This is a porject to keep my financial status of every account that I own. 
 
